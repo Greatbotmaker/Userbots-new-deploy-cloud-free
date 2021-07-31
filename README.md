@@ -18,19 +18,23 @@ But now it is not a problem.
 
 ## 😍Thanks to the railway Cloud team
 
-https://railway.app/
+* https://railway.app/
 
-https://github.com/sbatrow/Userbots-new-deploy-cloud-free
+* https://github.com/sbatrow/Userbots-new-deploy-cloud-free
 
-API_HASH
+* https://my.telegram.org/auth
 
-API_ID
+* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
 
-REDIS_PASSWORD
+* API_HASH
 
-REDIS_URI
+* API_ID
 
-SESSION
+* REDIS_PASSWORD
+
+* REDIS_URI
+
+* SESSION
 
 අල්ට්රොයිඩ් යූසර්බෝට් හෙරෝකු තහනම් කර ඇත.
 අල්ට්‍රොයිඩ් යෙදවීම කෙතරම් විශාල ගැටලුවක්ද. 
