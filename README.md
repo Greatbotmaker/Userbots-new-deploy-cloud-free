@@ -22,19 +22,17 @@ But now it is not a problem.
 
 * https://github.com/sbatrow/Userbots-new-deploy-cloud-free
 
-* https://my.telegram.org/auth
-
-* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
-
 * API_HASH
-
+https://my.telegram.org/auth
 * API_ID
 
 * REDIS_PASSWORD
-
+https://redislabs.com/try-free/
 * REDIS_URI
 
 * SESSION
+[![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
+
 
 අල්ට්රොයිඩ් යූසර්බෝට් හෙරෝකු තහනම් කර ඇත.
 අල්ට්‍රොයිඩ් යෙදවීම කෙතරම් විශාල ගැටලුවක්ද. 
