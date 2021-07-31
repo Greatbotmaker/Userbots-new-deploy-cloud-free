@@ -10,7 +10,7 @@
 
 Ultroid Userboat Heroku is banned.
 
-What a big problem using Altroid.
+What a big problem using ultroid.
  
 But now it is not a problem. 
 
